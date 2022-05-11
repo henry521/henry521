@@ -6,6 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henry521&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
 
+  ## Tecnologias que uso no meu dia
   <div style="display: inline_block"><br>
   <img align="center" alt="henry521-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="henry521-Spring" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
